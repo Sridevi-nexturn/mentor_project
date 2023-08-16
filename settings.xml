@@ -1,0 +1,12 @@
+<settings>
+  ...
+  <servers>
+    ...
+    <server>
+      <id>local-nexus</id>
+      <username>admin</username>
+      <password>admin@04</password>
+    </server>
+  </servers>
+  ...
+</settings>
